@@ -1,5 +1,5 @@
-[![The Devil's GitHub stats](https://github-readme-stats.vercel.app/api?username=satanic-santa&theme=gradient&bg_color=30,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satanic-santa&layout=compact&bg_color=30,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)
+[![The Devil's GitHub stats](https://github-readme-stats.vercel.app/api?username=satanic-santa&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satanic-santa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **satanic-santa/satanic-santa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
